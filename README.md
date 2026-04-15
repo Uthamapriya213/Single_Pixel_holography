@@ -52,23 +52,22 @@ The pipeline consists of:
          - Inverse FFT
 5. Results
 
-The pipeline demonstrates:
-
-- Reconstruction of holograms using single-pixel measurements  
-- Recovery of object amplitude via off-axis filtering  
-- Comparison between Hadamard, ISTA, and NNLS methods
+   The pipeline demonstrates:
+        - Reconstruction of holograms using single-pixel measurements  
+        - Recovery of object amplitude via off-axis filtering  
+        - Comparison between Hadamard, ISTA, and NNLS methods
 
 
 
 6. Key Insights
 
-- Single-pixel imaging can be extended to holography  
-- Reconstruction quality depends on:
-  - number of measurements  
-  - mask design  
-  - regularization parameters  
-- Iterative methods (ISTA) require careful tuning  
-- Holographic reconstruction is more challenging than direct imaging due to interference encoding  
+   - Single-pixel imaging can be extended to holography  
+   - Reconstruction quality depends on:
+      - number of measurements  
+      - mask design  
+      - regularization parameters  
+  - Iterative methods (ISTA) require careful tuning  
+  - Holographic reconstruction is more challenging than direct imaging due to interference encoding  
 
 
 
