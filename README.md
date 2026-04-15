@@ -47,7 +47,6 @@ The pipeline consists of:
 
 4. Object recovery
    After hologram reconstruction, the object is recovered using:
-
          - Fourier domain filtering
          - Sideband selection (off-axis holography)
          - Inverse FFT
